@@ -43,4 +43,3 @@
 14. **Contributing:**
     - Encouraging others to contribute to the project by submitting bug reports, feature requests, or code improvements.
 
-1
