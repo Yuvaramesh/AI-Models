@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ### Installation
 1.Clone the repository:
 
-git clone https://github.com/your-username/emoai-model.git
+[//github.com/your-username/emoai-model.git](https://teachablemachine.withgoogle.com/models/ZeagiX4nB/)
 
 2.Navigate to the project directory:
 
