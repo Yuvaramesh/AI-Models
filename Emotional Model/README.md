@@ -43,5 +43,4 @@
 14. **Contributing:**
     - Encouraging others to contribute to the project by submitting bug reports, feature requests, or code improvements.
 
-15. **License (MIT License):**
-    - The legal terms under which the project is distributed, specifying permissions and restrictions for users and contributors. In this case, the MIT License allows for modification and distribution of the code with relatively permissive terms.
+1
