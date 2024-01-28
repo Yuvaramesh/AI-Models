@@ -1,7 +1,7 @@
 ## The AI Model is build using AI Tool called TeachableMachine
 
 
-1. **Emotional AI Model:**
+1. **Emotional AI Model:***
    - A machine learning or deep learning model designed to recognize and classify emotions in textual data based on the presence of emojis.
 
 2. **Sentiment Analysis:**
