@@ -1,6 +1,6 @@
 # AI-Models
 
-## EmoAI Model
+### EmoAI Model
 
 ### Overview
 EmoAI Model is an artificial intelligence model designed for emotion recognition in textual data based on the presence of emojis. This model is trained to discern and classify various emotions, including happy, sad, and angry, using a diverse dataset. The primary goal is to facilitate sentiment analysis and emotion detection in textual content, allowing for applications in chatbot responses, social media analysis, and other areas where understanding user emotions is crucial.
