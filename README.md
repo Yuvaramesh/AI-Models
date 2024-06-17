@@ -11,7 +11,6 @@ EmoAI Model is an artificial intelligence model designed for emotion recognition
 **Sentiment Analysis:** The model provides a valuable tool for sentiment analysis, helping to gauge the emotional tone of text data and derive insights from user interactions.
 
 **Easy Integration:** With straightforward usage instructions, the EmoAI Model is designed for easy integration into applications requiring emotion recognition capabilities.
-
 Getting Started
 Prerequisites
 Ensure you have Python 3.x installed on your system.
