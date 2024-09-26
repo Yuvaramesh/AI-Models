@@ -35,8 +35,8 @@ pip install -r requirements.txt
 ### Dependencies
 
 **numpy
-\n pandas
-\n scikit-learn
-\n tensorflow
+<br> pandas
+<br> scikit-learn
+<br> tensorflow
 emoji**
 
