@@ -32,7 +32,6 @@ cd emoai-model
 
 pip install -r requirements.txt
 
-
 ### Dependencies
 
 **numpy
