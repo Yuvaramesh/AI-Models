@@ -17,7 +17,9 @@ Getting Started
 Prerequisites
 Ensure you have Python 3.x installed on your system.
 pip install -r requirements.txt
+
 ### Installation
+
 1.Clone the repository:
 
 [//github.com/your-username/emoai-model.git](https://github.com/Yuvaramesh/AI-Models.git)
