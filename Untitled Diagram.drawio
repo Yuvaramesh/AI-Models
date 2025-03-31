@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="BBKO3g1tJCXw09txULzw">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Machine Learning Components" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="8" y="8" width="533" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Continuous Learning" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="43" y="46" width="205" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Performance Metrics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="298" y="46" width="207" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Output Delivery" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="591" y="8" width="522" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Multilingual Output" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5">
+          <mxGeometry x="43" y="46" width="198" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="User Feedback Loop" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5">
+          <mxGeometry x="291" y="46" width="204" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Response Generation" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1163" y="8" width="799" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Content Generation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="8">
+          <mxGeometry x="43" y="46" width="202" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Language Localization" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="8">
+          <mxGeometry x="295" y="46" width="219" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Response Formatting" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="8">
+          <mxGeometry x="563" y="46" width="209" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Query Processing Engine" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2012" y="8" width="747" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Query Understanding" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="12">
+          <mxGeometry x="43" y="46" width="210" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Query Enhancement" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="12">
+          <mxGeometry x="303" y="46" width="204" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Data Retrieval" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="12">
+          <mxGeometry x="558" y="46" width="162" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="User Input Processing" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2809" y="8" width="752" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Multilingual Input" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="16">
+          <mxGeometry x="43" y="46" width="186" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Language Detection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="16">
+          <mxGeometry x="279" y="46" width="202" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Translation Module" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="16">
+          <mxGeometry x="530" y="46" width="195" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="User Input Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3611" y="46" width="213" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Query Processing Engine" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="187" width="233" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Response Generation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3470" y="303" width="210" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="Output Delivery" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3488" y="419" width="173" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="Machine Learning Components" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3730" y="291" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;" edge="1" parent="1" source="20" target="21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="21" target="22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3575" y="266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="22" target="23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="21" target="24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3860" y="266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
